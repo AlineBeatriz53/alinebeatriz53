@@ -6,9 +6,9 @@
 ##
 <div align="center">
   <a href="https://github.com/AlineBeatriz53>
-  <img height="170em" src="(https://github-readme-stats.vercel.app/api?username=alinebeatriz53)](https://github.com/anuraghazra/github-readme-stats)
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=alinebeatriz53&show_icons=true&theme=radical
 "/>
-    <img height="170em" src="(https://github-readme-stats.vercel.app/api?username=alinebeatriz53)](https://github.com/anuraghazra/github-readme-stats)
+    <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=alinebeatriz53
 "/>
   </div>
 <div style="display: inline_block"><br>
