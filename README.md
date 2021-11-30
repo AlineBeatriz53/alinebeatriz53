@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Aline Beatriz53🖤
  - _Atualmente estou estudando: JavaScript|HTML|CSS_
  - _Amo Rock in Roll e MPB_
- - Pronomes: ela/dela_
+ - _Pronomes: ela/dela_
 
 ##
 
