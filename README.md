@@ -3,9 +3,6 @@
 
 ### Seja muito bem-vinda ou bem-vindo ao meu GitHub<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
- - _Amo Rock in Roll e MPB_
- - _Pronomes: she/her_
-
 #### :snake: Sempre buscando coisas novas para aprender e desenvolver :snake:
 
 ##
