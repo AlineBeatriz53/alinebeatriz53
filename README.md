@@ -1,5 +1,5 @@
 <div>
-   <h2 align="center">Olá Tudo joia? Eu sou a <a href="https://www.linkedin.com/in/alineleite53/"><i>Aline Leite </i>(ou Bia)</a>🌙</h2>
+   <h2 align="center">Olá Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/alineleite53/"><i>Aline Beatriz </i>(ou Bia)</a>🌙</h2>
   <p align="center">Seja muito bem-vinda ou bem-vindo ao meu GitHub 😄</p>
   <p align="center">⭐ Minhas informações aqui no GitHub: </h2>
 </div>
