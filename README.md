@@ -1,5 +1,5 @@
 <div>
-   <h2 align="center">Oiee Cê tá boa? Eu sou a <a href="https://www.linkedin.com/in/alineleite53/"><i>Aline Beatriz </i>(ou Bia)</a> Front-End Pleno</h2>
+   <h2 align="center">Oiee eu sou a <a href="https://www.linkedin.com/in/alineleite53/"><i>Aline Coelho</i></a> Front-End Pleno</h2>
   <p align="center">Seja muito bem-vinda ou bem-vindo ao meu GitHub!</p>
 </div>
 
@@ -20,7 +20,7 @@
 <br>
  
 <div align="center"> 
- <p align="center">Entre em contato comigo, mas só se você quiser.😁📲</p>
+   <h2 align="center"></h2>
  <a href="https://www.instagram.com/_beatrizny/" target="_blank">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/alinecoelho53/" target="_blank">
