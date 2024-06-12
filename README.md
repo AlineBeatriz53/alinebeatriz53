@@ -28,7 +28,7 @@
  <p align="center">Entre em contato comigo, mas só se você quiser.😁📲</p>
  <a href="https://www.instagram.com/_beatrizny/" target="_blank">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/aline-leite-9786ba221/" target="_blank">
+ <a href="https://www.linkedin.com/in/alinecoelho53/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:ali.beatriz070@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></a>
