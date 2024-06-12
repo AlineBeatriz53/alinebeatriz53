@@ -3,11 +3,6 @@
   <p align="center">Seja muito bem-vinda ou bem-vindo ao meu GitHub 😄</p>
   <p align="center">⭐ Minhas informações aqui no GitHub: </h2>
 </div>
- <div align="center">
-  <a href="https://github.com/alinebeatriz53">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinebeatriz53&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebeatriz53&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <div align="center" valign="top">
  <p>💻 Tecnologias e Linguagens que tenho conhecimento e estudos constantes: </p>
