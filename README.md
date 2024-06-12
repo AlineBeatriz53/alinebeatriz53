@@ -1,7 +1,6 @@
 <div>
    <h2 align="center">Olá Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/alineleite53/"><i>Aline Beatriz </i>(ou Bia)</a>🌙</h2>
   <p align="center">Seja muito bem-vinda ou bem-vindo ao meu GitHub 😄</p>
-  <p align="center">⭐ Minhas informações aqui no GitHub: </h2>
 </div>
 
 <div align="center" valign="top">
@@ -26,21 +25,5 @@
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:ali.beatriz070@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></a>
- 
- ![Snake animation](https://github.com/alinebeatriz53/alinebeatriz53/blob/output/github-contribution-grid-snake.svg)
->
- 
- <p align="center"> 
- Muito Obrigada e volte sempre!
-</p>
- 
-<p align="center">
- <img alingn="center" src="https://i.picasion.com/pic91/8a04f4634c39439266ade84664cb933a.gif" />
-</p>
-
-<!-- <p align="center">
-<a href="https://github.com/AlineBeatriz53/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AlineBeatriz53&theme=blueberry&hide_border=true&background=355C7D00&stroke=4169E1&dates=4169E1" /></a> -->
-
 </div>
 
